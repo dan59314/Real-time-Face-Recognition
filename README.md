@@ -1,13 +1,17 @@
 # Real-time-Face-Recognition
 Add faces, training and real-time face recognition
 
-/*
+
   Daniel Lu
+
   Email : dan59314@gmail.com
+  
   Web :     http://www.rasvector.url.tw/
+  
   YouTube : http://www.youtube.com/dan59314/playlist
+  
   GitHub : https://github.com/dan59314  
-*/ 
+  
   
 Inspiration from the many coders out there sharing their work and passion.
 
@@ -28,6 +32,8 @@ This will train and update the mode "trainner.yml" from input faces in "\\Faces\
 
 ## Step 4. FaceRecogition_RealTime.py
 Execute this to start realtime face detecting and recognizing from the usb camera.
+    
+    
     
 
 	
