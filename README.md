@@ -6,7 +6,7 @@ Add faces, training and real-time face recognition
 	
 [RealTime Face Recognition Video](https://youtu.be/KjnMQEC5LYA)
 
-[![RealTime Face Recognition](https://github.com/dan59314/dlib-FaceSwap/blob/master/faceRecog.png)](https://youtu.be/KjnMQEC5LYA?t=0s "RealTime Face Recognition") 
+[![RealTime Face Recognition](https://github.com/dan59314/Real-time-Face-Recognition/blob/master/FaceRecog.png)](https://youtu.be/KjnMQEC5LYA?t=0s "RealTime Face Recognition") 
 
 ------------------------------------------------------------------------------------
 ## Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
