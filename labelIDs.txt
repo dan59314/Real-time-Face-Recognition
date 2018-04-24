@@ -1,0 +1,6 @@
+1=AgelinaJolie
+2=DanielLu
+3=exit
+4=JenniferLawrence
+5=Selmahayek
+6=SharonStone
