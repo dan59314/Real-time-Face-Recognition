@@ -28,7 +28,8 @@ After addining new faces of a new people, execute this file to convert colorful 
 The gray face will then saved in folder "\\Faces\\"
 		
 ## Step 3. Training.py
-This will train and update the mode "trainner.yml" from input faces in "\\Faces\\"
+This will train and update the model "trainner.yml" from input faces in "\\Faces\\"
+
 
 ## Step 4. FaceRecogition_RealTime.py
 Execute this to start realtime face detecting and recognizing from the usb camera.
